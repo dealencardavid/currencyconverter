@@ -171,7 +171,7 @@ function ConverterProvider({ children }) {
             rate: convertedAmount / amount,
             amount: amount,
             fee: feePercentage * amount,
-            convertedAmount: convertedAmount + feePercentage * amount,
+            convertedAmount: convertedAmount - feePercentage * amount,
           };
           dispatch({ type: "conversion/created", payload: newConversion });
         } catch (error) {
