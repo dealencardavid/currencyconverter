@@ -8,16 +8,6 @@ function Footer() {
         <div className="flex flex-col items-center gap-6">
           <FooterCol title="Resources">
             <ul>
-              {/* <li>
-                <a
-                  href=""
-                  target="_blank"
-                  rel="noreferrer"
-                  className="text-sm font-thin hover:text-mainPurple transition ease-in-out duration-200"
-                >
-                  Figma file
-                </a>
-              </li> */}
               <li>
                 <a
                   href=""
@@ -47,8 +37,8 @@ function Footer() {
         <div className=" text-center flex flex-col gap-6 items-center justify-center w-2/3">
           <a href="#">
             <img
-              src="../public/assets/logo.png"
-              className="w-36"
+              src="../assets/logo.png"
+              className="w-32"
               alt="CurrencyConverter Logo"
             />
           </a>
