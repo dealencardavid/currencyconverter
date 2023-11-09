@@ -8,12 +8,12 @@ CurrencyConverter is more than just a tool; it's a passion project born out of t
 
 ## Technologies
 
-- **React:**
+- **React**
 
-- **TailWindCSS:**
+- **TailWindCSS**
 
-- **ReCharts:**
+- **ReCharts**
 
-- **FrankfurterAPI:**
+- **FrankfurterAPI**
 
 Feel free to explore the project. If you have any feedback, I'd be glad to hear!
